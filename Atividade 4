@@ -1,0 +1,3 @@
+
+SELECT Soma(preço) como AS total
+de FROM produtos;
